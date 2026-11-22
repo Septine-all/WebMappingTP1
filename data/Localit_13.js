@@ -1,0 +1,1 @@
+var json_Localit_13 = {"type":"FeatureCollection","name":"Localit_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","osm_id":"1531896615","code":1050.0,"fclass":"locality","population":"0","name":"Village sur la Mer"},"geometry":{"type":"Point","coordinates":[2.4479918,6.3554988]}}]}
